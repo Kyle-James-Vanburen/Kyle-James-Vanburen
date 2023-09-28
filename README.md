@@ -1,6 +1,6 @@
 # 👋📊 About Me
 
-- 🎓 Recent Thinkful Data Analytics Graduate.
+- 🎓 Recent 2023 Thinkful Data Analytics Graduate.
 - 💡 Love crafting stunning dashboards with Power BI & Tableau.
 - 📚 Acquired skills in data wrangling, visualization, and statistical analysis.
 - 🗣️ Exceptional communicator, turning data into compelling stories.
